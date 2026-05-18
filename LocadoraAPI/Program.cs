@@ -38,6 +38,7 @@ builder.Services.AddAuthorization();
 builder.Services.AddScoped<JwtHelper>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
 builder.Services.AddControllers();
 
