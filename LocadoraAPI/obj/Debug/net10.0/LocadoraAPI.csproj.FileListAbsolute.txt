@@ -1,0 +1,9 @@
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\er339\source\repos\ErickRochaNascimento\desafio_backend_sprint4_ErickNascimento\LocadoraAPI\obj\Debug\net10.0\LocadoraAPI.sourcelink.json
