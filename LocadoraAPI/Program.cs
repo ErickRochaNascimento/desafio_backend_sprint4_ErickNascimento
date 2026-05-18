@@ -39,6 +39,7 @@ builder.Services.AddScoped<JwtHelper>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<IVeiculoService, VeiculoService>();
 
 builder.Services.AddControllers();
 
