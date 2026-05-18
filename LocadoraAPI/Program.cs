@@ -2,6 +2,8 @@ using System.Text;
 using LocadoraAPI.Data;
 using LocadoraAPI.Helpers;
 using LocadoraAPI.Middleware;
+using LocadoraAPI.Services;
+using LocadoraAPI.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -34,6 +36,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 builder.Services.AddScoped<JwtHelper>();
+
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 builder.Services.AddControllers();
 
